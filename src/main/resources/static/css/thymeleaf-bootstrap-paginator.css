@@ -1,0 +1,10 @@
+
+.tbpage-total-elements {
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #464a4c;
+}
+
