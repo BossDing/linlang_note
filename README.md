@@ -24,8 +24,12 @@
 8. 首页搜索
 
 ## 项目截图
+- 主页
+- ![image](https://github.com/feederofpu/linlang_note/blob/master/images/%E5%8D%9A%E5%AE%A2%E9%A6%96%E9%A1%B5.png)  
+- 主页搜索
+- ![image](https://github.com/feederofpu/linlang_note/blob/master/images/%E5%8D%9A%E5%AE%A2%E9%A6%96%E9%A1%B5.png)  
 
-## 博客系统的API
+## 琳琅笔记的API
 
 - 网站主页
   - /blogs：GET
