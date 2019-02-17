@@ -25,11 +25,17 @@
 
 ## 项目截图
 - 主页
-- ![image](https://github.com/feederofpu/linlang_note/blob/master/images/%E5%8D%9A%E5%AE%A2%E9%A6%96%E9%A1%B5.png)  
+![image](https://github.com/feederofpu/linlang_note/blob/master/images/%E5%8D%9A%E5%AE%A2%E9%A6%96%E9%A1%B5.png)  
 - 主页搜索
-- ![image](https://github.com/feederofpu/linlang_note/blob/master/images/%E9%A6%96%E9%A1%B5%E6%90%9C%E7%B4%A2.png)  
+![image](https://github.com/feederofpu/linlang_note/blob/master/images/%E9%A6%96%E9%A1%B5%E6%90%9C%E7%B4%A2.png)  
 - 用户首页
-- ![image](https://github.com/feederofpu/linlang_note/blob/master/images/用户首页.png)
+![image](https://github.com/feederofpu/linlang_note/blob/master/images/用户首页.png)
+- 新建博客
+![image](https://github.com/feederofpu/linlang_note/blob/master/images/新建博客.png)
+- 点赞评论
+![image](https://github.com/feederofpu/linlang_note/blob/master/images/点赞评论.png)
+- 后台管理
+![image](https://github.com/feederofpu/linlang_note/blob/master/images/后台用户管理.png)
 
 ## 琳琅笔记的API
 
