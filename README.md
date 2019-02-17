@@ -113,6 +113,9 @@
 
 ## 如何运行
 
-1. 使用git或者下载项目zip文件并解压
+1. 使用git下载项目源码
+ ```
+ git clone https://github.com/feederofpu/linlang_note.git
+ ```
 2. 开启ElasticSearch2.x版本
 3. 运行项目，访问lcalhost:8080，使用管理员账户（账号：admin，密码：123456）| 普通用户账户（账号：hsiaolung，密码：123456）可以登录
